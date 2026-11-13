@@ -6,13 +6,9 @@
 
 ## 界面预览
 
-### 主界面
+![主界面：点击图片区域选择照片、重新自动检测 / 旋转 90° / 手动调整、排版参数与生成 PDF](screenshots/main-window.png)
 
-![主界面：人像面与国徽面自动检测、排版参数与生成 PDF](screenshots/main-window.png)
-
-### 手动调整四角
-
-![手动调整四角弹窗：拖动四个圆点、方向键微调、重新自动检测与旋转](screenshots/corner-adjust.png)
+> Windows 桌面版界面；麒麟 ARM64 版为同源 egui 实现，布局一致。
 
 ## v1.0.0 下载
 
