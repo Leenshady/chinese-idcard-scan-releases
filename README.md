@@ -4,6 +4,16 @@
 
 请前往 [Releases](https://github.com/Leenshady/chinese-idcard-scan-releases/releases) 页面下载最新版本。
 
+## 界面预览
+
+### 主界面
+
+![主界面：人像面与国徽面自动检测、排版参数与生成 PDF](screenshots/main-window.png)
+
+### 手动调整四角
+
+![手动调整四角弹窗：拖动四个圆点、方向键微调、重新自动检测与旋转](screenshots/corner-adjust.png)
+
 ## v1.0.0 下载
 
 | 文件 | 平台 | 说明 |
